@@ -29,6 +29,6 @@ ans: 宗教の位置付けに対して一番可能性のある物が返答とし
 # $\color{#2f81f7}{\text{最強のフォーマット}}$  
 
 ```bash
-
+$(tput setaf 2)Red text $(tput setaf 7)and white background
 
 ```
