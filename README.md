@@ -26,7 +26,7 @@ ans: 宗教の位置付けに対して一番可能性のある物が返答とし
 
 > __Note__
 
-$\color{blue}{\text{test text}}$  
+# $\color{blue}{\text{test text}}$  
 
 ```bash
 
