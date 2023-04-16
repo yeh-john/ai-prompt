@@ -28,7 +28,7 @@ ans: 宗教の位置付けに対して一番可能性のある物が返答とし
 
 # $\color{blue}{最強質問フォーマット}$
 
-$\color{lightblue}{\textrm{test text}}$  
+$\color{lightblue}{\text{test text}}$  
 
 ```bash
 
