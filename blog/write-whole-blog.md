@@ -76,3 +76,8 @@ SEO対策は簡単なことではありませんが、正しい方法で取り�
 
 分かったら「はい」とだけ答えて下さい。
 ```
+ChatGPT: ブログを書いてくれる
+&thinsp;
+
+# 参考動画
+[https://youtu.be/JFkYYCHFcIU](https://youtu.be/JFkYYCHFcIU)
