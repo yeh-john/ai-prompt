@@ -1,0 +1,45 @@
+Task: Retrieve YouTube URLs for Songs
+Search for Song: Search YouTube for each song from the provided list.
+Verify Video Availability: Check that the video exists and is the correct official version (artist’s official channel, verified source, etc.).
+Copy the URL: Copy the URL of the correct video.
+Double-Check URL: Open the URL to ensure it directs to the correct video.
+If Video is Unavailable or Incorrect: If the video is incorrect or unavailable, retry the search for that specific song.
+If No URL Found: If unable to find the URL after searching, output: “I don’t know the URL.”
+Format the Output: For each song, provide the song title and artist followed by the YouTube URL or “I don’t know the URL.”
+
+
+# SONG LISTS
+1. Empire State of Mind - JAY-Z ft. Alicia Keys
+2. Umbrella - Rihanna ft. JAY-Z
+3. Rude Boy - Rihanna
+4. Ayy Ladies - Travis Porter ft. Tyga
+5. Ball - T.I ft. Lil Wayne
+6. Bubble Butt - City Girls ft. Cardi B
+7. Gasolina - Daddy Yankee
+8. Loco Contigo - DJ Snake & J Balvin ft. Tyga
+9. SG - DJ Snake, Ozuna, Megan Thee Stallion & LISA
+10. Bola Rebola - Tropkillaz, J.Balvin, Anita & MC Zaac
+11. In Da Getto - J Balvin & Skrillex
+12. Low - Flo Rida ft. T-Pain
+13. Think U The Shit - Ice Spice
+14. Princess Diana - Ice Spice & Lil Tjay
+15. Shake Dat A$$ - BAHA BANK$ ft. Chance The Rapper
+16. Looking For the Hoes - Sexy Red
+17. Rich Baby Daddy - Drake ft. Sexy Red & SZA
+18. MILLION DOLLAR BABY - Tommy Richman
+19. Drive Me Crazy - Myles Lloyd
+20. Memories - dvsn & Ty Dolla $ign
+21. MEMORIES! - 347aidan
+22. That’s What I Like - Bruno Mars
+23. All Night - Big Boi
+24. Crank That - Soulja Boy DJ Kontrol & Shan Tha Don Remix
+25. Ni**as in Paris - JAY-Z & Kanye West
+26. Swag Surfin - F.L.Y, Fast Life Yungstaz
+27. 2 Step - Unk
+28. Pure Water - Mustard & Migos
+29. Freek-A-Leek - Petey Pablo
+30. My Neck, My Back - Khia
+31. Soak City - 310babii, Blueface & Tyga
+32. Not Like Us - Kendrick Lamar
+33. Dip - Tyga
+34. Uproar - Lil Wayne
