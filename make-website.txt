@@ -1,0 +1,25 @@
+# Help me to make the prompt for coding ai
+
+I am creating a website for a "ADD_COMPANY_NAME" I have not yet decided on the color scheme or theme, and I need help choosing an appropriate design. The theme should be based on the nature of the company and cater to what customers would expect to see when visiting such a website.
+
+Project Requirements:
+
+Technology: Use only HTML, CSS, and JavaScript for the development.
+
+Theme & Colors: Choose a clean, professional, and trustworthy theme that aligns with the cleaning and maintenance industry. Think of colors and a style that reflect cleanliness, reliability, and professionalism.
+
+Images: Use placeholder images from the internet that represent the cleaning and maintenance services. The images don’t have to be perfect, but they should match the company’s services. I will replace them later with high-quality ones.
+
+Responsiveness: Ensure the website is fully responsive, adapting well to different screen sizes (desktop, tablet, and mobile).
+
+Customer Experience: Focus on what customers typically expect when browsing a cleaning and maintenance company’s website—clarity, easy navigation, trust, and professionalism.
+
+Company Information: Incorporate the relevant details about the company, including services, contact information, and any other essential content that would appeal to potential customers.
+
+Once you’ve understood the requirements, feel free to proceed with the project, and don’t hesitate to ask for clarification if needed!
+
+# Company information
+PUT_COMPANY_INFORMATION
+
+# What customer want
+PUT_WHAT_CUSTOMER_WANT
